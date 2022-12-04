@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Salary estimation application**
 
-- 🌱 I’m currently learning **React and Hadoop cloud**
+- 🌱 I’m currently learning **React, Vue.Js, Hadoop, Scala, and Hive**
 
 - 👨‍💻 All of my projects are available at [https://marwanalomari.wixsite.com/profile](https://marwanalomari.wixsite.com/profile)
 
 - 💬 Ask me about **AI and Data science**
 
-- 📫 How to reach me **marwanalomari@yahoo.om**
+- 📫 How to reach me **marwanalomari@yahoo.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jcMV0uFlO7I1OZgOlbbs1z_-NxJOhbjq/view?usp=sharing](https://drive.google.com/file/d/1jcMV0uFlO7I1OZgOlbbs1z_-NxJOhbjq/view?usp=sharing)
 
