@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **marwanalomari@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jcMV0uFlO7I1OZgOlbbs1z_-NxJOhbjq/view?usp=sharing](https://drive.google.com/file/d/1jcMV0uFlO7I1OZgOlbbs1z_-NxJOhbjq/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1jcMV0uFlO7I1OZgOlbbs1z_-NxJOhbjq/view?usp=sharing](https://drive.google.com/file/d/1c3dBtr5LYwJjJVxI3NIf_-EEecJNio-v/view?usp=sharing)]([https://drive.google.com/file/d/1jcMV0uFlO7I1OZgOlbbs1z_-NxJOhbjq/view?usp=sharing](https://drive.google.com/file/d/1c3dBtr5LYwJjJVxI3NIf_-EEecJNio-v/view?usp=sharing))
 
 - ⚡ Fun fact **I am adventourous**
 
@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/marwanalomari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwanalomari" height="30" width="40" /></a>
 <a href="https://kaggle.com/marwanalomari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marwanalomari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamingologist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamingologist" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
