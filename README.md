@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **marwanalomari@yahoo.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1c3dBtr5LYwJjJVxI3NIf_-EEecJNio-v/view?usp=sharing" target="blank"><img align="center" src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg" alt="marwanalomari" height="30" width="40" /></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1c3dBtr5LYwJjJVxI3NIf_-EEecJNio-v/view?usp=sharing" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/cv-icon-863x1024-poos1wky.png" alt="marwanalomari" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I am adventourous**
 
