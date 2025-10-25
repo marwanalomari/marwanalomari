@@ -1,7 +1,7 @@
 [![MasterHead](https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=fr-fr&hash=A5382DF5881B1FE4976AF187EAF0A57A)](https://marwanalomari.io)
 <h1 align="center">Hello 👋, I'm Marwan</h1>
 <h3 align="center">A passionate AI developer and data engineer from France</h3>
-<img align="right" alt="coding" width="100" src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/512px/1f468-1f4bb.png">
+<img align="right" alt="coding" width="40" src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/512px/1f468-1f4bb.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanalomari&label=Profile%20views&color=0e75b6&style=flat" alt="marwanalomari" /> </p>
 
