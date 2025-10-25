@@ -1,4 +1,4 @@
-[![MasterHead](https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=fr-fr&hash=A5382DF5881B1FE4976AF187EAF0A57A)](https://marwanalomari.io)
+[![MasterHead](https://camo.githubusercontent.com/b72696803f04e4805e92725d23371558b8a34f27a6e0019c0f471a9e3a097ef7/68747470733a2f2f6e69656c73656e69712e636f6d2f77702d636f6e74656e742f75706c6f6164732f73697465732f342f323032312f30322f646174612d736369656e63652d69636f6e2d616e696d6174696f6e2d62616e6e65722d636c6f636b776973652d342e6769663f773d31303234)](https://marwanalomari.io)
 <h1 align="center">Hello 👋, I'm Marwan</h1>
 <h3 align="center">A passionate AI developer and data engineer from France</h3>
 <img align="right" alt="coding" width="100" src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/512px/1f468-1f4bb.png">
