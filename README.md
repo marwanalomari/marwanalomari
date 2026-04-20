@@ -1,7 +1,4 @@
 [![MasterHead](./github-header-banner.png)](https://marwanalomari.io)
-<h1 align="center">Hello 👋, I'm Marwan</h1>
-<h3 align="center">AI Developer • Engineer | Crafting intelligent software solutions</h3>
-<img align="right" alt="coding" width="100" src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/512px/1f468-1f4bb.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanalomari&label=Profile%20views&color=0e75b6&style=flat" alt="marwanalomari" /> </p>
 
