@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanalomari&label=Profile%20views&color=0e75b6&style=flat" alt="marwanalomari" /> </p>
 
-- 🔭 I’m currently working on **Optimization of open-source AI models to achieve faster performance and high cost-efficiency**
+- 🔭 I’m currently working on **Optimization of open-source AI models, such as Gemma 4, to achieve faster performance and high cost-efficiency**
 
-- 🌱 I’m currently learning **React, AI Prompt Engineering, Continuous Learning**
+- 🌱 I’m currently learning **React, AI Prompt Engineering, Life Skills**
 
 - 👨‍💻 All of my projects are available at [https://marwanalomari.wixsite.com/profile](https://marwanalomari.wixsite.com/profile)
 
-- 💬 Ask me about **AI and Engineering**
+- 💬 Ask me about **Engineering**
 
 - 📫 How to reach me **marwanalomari@yahoo.com**
 
